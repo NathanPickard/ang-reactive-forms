@@ -1,0 +1,36 @@
+{
+  "name": "ang-reactive-forms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Pickard <nathan.pickard87@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^4.4.6",
+    "@angular/compiler": "^4.4.6",
+    "@angular/core": "^4.4.6",
+    "@angular/forms": "^4.4.6",
+    "@angular/http": "^4.4.6",
+    "@angular/platform-browser": "^4.4.6",
+    "@angular/platform-browser-dynamic": "^4.4.6",
+    "@angular/router": "^4.4.6",
+    "angular-in-memory-web-api": "^0.5.1",
+    "bootstrap": "^3.3.7",
+    "core-js": "^2.5.1",
+    "rxjs": "^5.5.0",
+    "systemjs": "^0.20.19",
+    "zone.js": "^0.8.18"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.46",
+    "canonical-path": "0.0.2",
+    "concurrently": "^3.5.0",
+    "lite-server": "^2.3.0",
+    "rimraf": "^2.6.2",
+    "tslint": "^5.8.0",
+    "typescript": "^2.5.3"
+  }
+}
